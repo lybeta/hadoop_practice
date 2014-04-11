@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+
+    <!-- file system properties -->
+    <property>
+        <name>dfs.name.dir</name>
+        <value>/home/hadoop/dfs_name</value><!-- value里填写运行hadoop的账户能够访问的目录 -->
+    </property>
+    <property>
+        <name>dfs.data.dir</name>
+        <value>/home/hadoop/dfs_data</value><!-- value里填写运行hadoop的账户能够访问的目录 -->
+    </property>
+    <property>
+        <name>dfs.replication</name>
+        <value>2</value>
+        <description>Default block replication.
+            The actual number of replications can be specified when the file is created.
+            The default is used if replication is not specified in create time.
+        </description>
+    </property>
+</configuration>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="paoding-analysis">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/paoding-analysis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/SourceCode/fourinone-3.04.25/fourinone-3.04.25.iml" filepath="$USER_HOME$/SourceCode/fourinone-3.04.25/fourinone-3.04.25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iHadoop.iml" filepath="$PROJECT_DIR$/iHadoop.iml" />
+      <module fileurl="file://$USER_HOME$/SourceCode/fourinone-3.04.25/指南和demo/指南和demo.iml" filepath="$USER_HOME$/SourceCode/fourinone-3.04.25/指南和demo/指南和demo.iml" />
+    </modules>
+  </component>
+</project>
+
